@@ -11,7 +11,6 @@ Course Hub is a React-based platform that allows users to browse and filter cour
 - React.js
 - Tailwind CSS
 - API for course data
-- Context API (if used for state management)
 
 ## Screenshot
 ![Course Hub](public/all.png)
